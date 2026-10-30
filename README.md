@@ -10,7 +10,7 @@ Mở CMD tại thư mục project và chạy:
 
 ```cmd
 javac -d out src/Mapper.java
-java -cp out utils.Mapper Student
+java -cp out mapper.Mapper Student
 ```
 
 Thay `Student` bằng tên class muốn tạo.
